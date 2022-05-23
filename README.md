@@ -18,7 +18,7 @@ The EntSum dataset is used to evaluate the effectiveness of these trained entity
 - EntSum [Zenodo](https://zenodo.org/record/6359875) | [HuggingFace](https://huggingface.co/datasets/bloomberg/entsum)
 
 # License
-This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+The EntSum code is distributed under the Apache License (version 2.0); see the LICENSE file at the top of the source tree for more information.
 
 **Note:** To run the code and download the datasets, please obtain the respective licenses for each respectively.
 
