@@ -1,5 +1,5 @@
-# EntSum: A dataset for entity centric summarization
-Repository for pre-processing code related to generating the training datasets used in the paper.
+# EntSUM: A dataset for entity centric summarization
+Repository for pre-processing code related to generating the training datasets used in the [paper](https://aclanthology.org/2022.acl-long.237/).
 
 ## Using this repository
 The repository contains 4 notebooks:
@@ -14,11 +14,11 @@ CNN/DailyMail and NYT are datasets that can be used for training models by setti
 - [CNN/DailyMail](https://cs.nyu.edu/~kcho/DMQA/)
 - [NYT](https://catalog.ldc.upenn.edu/LDC2008T19)
 
-The EntSum dataset is used to evaluate the effectiveness of these trained entity-centric summarization models.
-- EntSum [Zenodo](https://zenodo.org/record/6359875) | [HuggingFace](https://huggingface.co/datasets/bloomberg/entsum)
+The EntSUM dataset is used to evaluate the effectiveness of these trained entity-centric summarization models.
+- EntSUM [Zenodo](https://zenodo.org/record/6359875) | [HuggingFace](https://huggingface.co/datasets/bloomberg/entsum)
 
 # License
-The EntSum code is distributed under the Apache License (version 2.0); see the LICENSE file at the top of the source tree for more information.
+The EntSUM code is distributed under the Apache License (version 2.0); see the LICENSE file at the top of the source tree for more information.
 
 **Note:** To run the code and download the datasets, please obtain the respective licenses for each respectively.
 
